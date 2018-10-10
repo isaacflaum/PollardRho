@@ -1,2 +1,2 @@
 # PollardRho
-PollardRho Factoring Algorithm
+This repository contains a Javascript implementation of the PollardRho Factoring Algorithm
