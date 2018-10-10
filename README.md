@@ -1,2 +1,2 @@
 # PollardRho
-This repository contains a Javascript implementation of the PollardRho Factoring Algorithm
+This repository contains a Javascript implementation of the PollardRho Factoring Algorithm. Algorithm can be run with any nodejs version that supports ES6 syntax as well as in the browser console. Just cd into the directory containing the pollardRho js file and run `node pollardRho.js`. Seed and Number to factor can be configured as well as the number of iterations or guesses to make.
